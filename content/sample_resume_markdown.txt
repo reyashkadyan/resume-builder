@@ -1,0 +1,124 @@
+# Person
+041234567 | Australia | [sampleemail@gmail.com](mailto:sampleemail@gmail.com) | [Github](https://github.com/) | [Linkedin](https://www.linkedin.com/)
+
+---
+
+## SUMMARY
+
+Person is an experienced Information Science professional in Australia and a Master’s in Data Science, specializing in AI, machine learning, cloud computing, and business intelligence. His expertise includes solution architecture, data modelling, and statistical analysis. Known for successfully managing complex projects, he consistently delivers high-quality results on time, exceeding expectations.
+
+---
+
+## WORK EXPERIENCE
+
+### Position, Company
+**Brisbane, Queensland** | 04/2024 - 10/2024
+
+- Led the end-to-end development and deployment of deep learning solutions aligning technical capabilities with business needs to enhance product offerings.
+- Benchmarked and evaluated open-source Automatic Speech Recognition (ASR) models from NVIDIA, OpenAI, Meta, and Google using PyTorch, resulting in optimized model performance for lyric extraction, directly contributing to achieving competitive AI service parity.
+- Developed a rule-based Natural Language Processing (NLP) system to address hallucination and repetition issues, improving transcription accuracy and enhancing the product's usability.
+- Built and deployed scalable solutions using AWS cloud services (Lambda, ECS, ECR, SQS), enabling efficient and cost-effective inference on GPU-based machines, directly impacting product scalability and performance.
+- Spearheaded the Key Detection feature development using transfer learning on temporal and frequency-based audio features, expanding the product's AI capabilities.
+- Implemented advanced deep learning practices such as dynamic data loading, early stopping, and adaptive learning, improving model robustness and efficiency.
+- Conducted literature reviews and worked with product managers and project managers to align technical delivery with business objectives, ensuring timely feature rollouts that met market demands.
+
+### Position, Company
+**Brisbane, Queensland** | 03/2023 - 04/2024
+
+- Developed AI solutions to enhance HR operations and employee experience, including GPT-4 powered HR chatbot prototype using Retrieval-Augmented Generation (RAG) pipeline, streamlining HR-related queries and improving user engagement.
+- Optimized analysis of bi-annual employee surveys by designing a system for topic clustering and implementing concurrent processing modules with OpenAI APIs, reducing processing time and providing actionable insights to C-level executives on workplace culture and leadership.
+- Evaluated and integrated open-source Large Language Models (LLMs), namely Mistral and Dolly, into RAG pipelines for automating IT System Management (ITSM) case allocations, achieving up to 90% cost savings compared to proprietary models while matching performance.
+- Enhanced predictive analytics for employee attrition by developing machine learning models using multi-agency datasets (resourcing, rewards, productivity, safety), identifying key turnover factors, and migrating workflows to Databricks for end-to-end orchestration and automation.
+- Established MLOps practices using MLflow, monitoring model training, tracking drift, automating retraining processes, and evaluating models across multiple performance metrics to ensure ongoing accuracy and effectiveness.
+- Built efficient ETL pipelines with Delta Live Tables in Databricks, processing incremental data loads from raw SAP based Enterprise Resource Planning (ERP) systems, improving data quality and availability for analytics and reporting.
+- Conducted statistical analyses to inform leadership strategies, applying hypothesis testing and other statistical methods to survey data, providing strategic recommendations that enhanced leadership experiences and organizational culture.
+- Collaborated with cross-functional stakeholders to align data science initiatives with organizational goals, participated in strategic planning sessions, and supported team by wrangling large datasets using PySpark.
+
+### Position, Company
+**Brisbane, Queensland** | 12/2021 - 03/2023
+
+- Developed and deployed advanced analytics and machine learning solutions that enhanced clients' operational efficiency and business outcomes.
+- Optimized freight service planning by creating algorithms that mapped operational constraints, maintenance schedules, and timetables, enabling strategic expansion of service capacity.
+- Built predictive models for urban parking availability, analyzing traffic and sensor data to forecast loading zone occupancy, which improved delivery efficiency for clients and led to securing multi-year engagements.
+- Engineered supply chain risk management platforms by developing network algorithms and machine learning models. Processed over 80,000 news articles daily to identify and classify risks, enhancing clients' risk mitigation strategies. Also, enhanced data processing and search algorithms, reducing processing time by 83% through data deduplication and implementing graph database in Microsoft SQL Server, significantly improving search efficiency in large supply chain networks.
+- Led small teams, managing sprint deliveries and overseeing solution design and cloud architecture, ensuring timely execution aligned with client objectives.
+- Transformed large-scale client data into actionable insights through feature engineering and predictive modeling facilitating data-driven decision-making.
+- Integrated automated data ingestion and processing pipelines from multiple sources—including open-source feeds, APIs, and on-premises systems, ensuring data reliability and availability.
+- Communicated complex technical insights to stakeholders via presentations and interactive dashboards using Tableau, aiding decision-making processes and securing client buy-in.
+- Maintained high standards of MLOps practices, applying agile methodologies, detailed planning, and version control to deliver robust and scalable machine learning solutions.
+
+### Position, Company
+**Brisbane, Queensland** | 11/2020 - 12/2021
+
+- Automating data processing pipelines to fuel data-driven research, accelerate internal business processes and reduce product delivery timeline.
+- Developing interactive visualisations and dashboards to deliver risk-analysis reports on Asthma/COPD patients specific to the stakeholder in Primary care.
+- Building and testing clinical NLP models on textual data from secondary care practitioners in Respiratory care.
+- Understanding healthcare functionalities and systems to support decision-making processes in the management.
+- Utilising big data applications to collate and analyse data from multiple sources like Electronic Health Record (EHR), Patient Questionnaires, etc.
+
+### Position, Company
+**Melbourne, Australia** | 03/2020 - 08/2020 
+
+- Led a team in developing a scalable web application using AGILE methodologies, incorporating geospatial analysis for real-time mapping of koala habitats and bushfires.
+- Designed and implemented ETL pipelines for cloud-based data storage, processing real-time data on bushfires and smoke direction.
+- Developed a REST API to deliver processed data to the front-end for real-time visualization.
+- Ensured website security with SSL certifications and firewall setup, along with regular maintenance to optimize performance.
+
+### Position, Company
+**Melbourne, Australia** | 01/2020 - 03/2020
+
+- Collaborated with two leading scholars from Monash University's Faculty of Information Technology to expand the benchmark Causal Inference Knowledge Base (ATOMIC) by extracting common-sense knowledge from short stories using NLP techniques and training neural network-based models for predictions. Conducted literature reviews on recent advancements in NLP and developed multiple prototype solutions in PyTorch based on this research.
+
+---
+
+## VOLUNTEER EXPERIENCE
+
+### Position, Company
+**Melbourne, Australia** | 02/2020 - 03/2020
+
+- Led a team of 6 student consultants in devising a new marketing and content strategy through in-depth qualitative and quantitative analysis of survey data. Regularly engaged with stakeholders for requirements gathering and progress updates, delivering recommendations via infographics and dashboards to enhance campaign effectiveness.
+
+### Position, Company
+**Delhi, India** | 09/2016 - 03/2018
+
+- Led a team of 150 volunteers addressing blood shortages. Contributed to 26 blood donation camps, collecting 10,000 donations and saving 40,000 lives. Notably, spearheaded the nationally recognized 'Kar Ke Dekho' campaign and managed partnerships with Uber, Delhi Police, and DUSU for awareness initiatives.
+
+---
+
+## CERTIFICATES
+
+- **Databricks ML Associate**, Databricks | 12/2023
+- **A.W.S Machine Learning Speciality**, Amazon Web Services | 01/2022
+- **Data Security in Healthcare**, National Institute of Health | 11/2020
+
+---
+
+## SKILLS
+
+- Artificial Intelligence
+- Big data (Spark, Hadoop)
+- Business Intelligence (Tableau, PowerBI, Shiny, D3)
+- Programming (Python, R, C++)
+- Computer Vision
+- Cloud (A.W.S, Azure, DataBricks)
+- Data Modelling (SQL, dbt)
+- Deep Learning (Pytorch, Tensorflow)
+- Leadership
+- Machine Learning (Scikit, Xgboost)
+- Natural Language Processing (OpenAI, Huggingface, spacy)
+- Predictive Modelling
+- Project Management (Jira, Confluence, Trello, Azure DevOps)
+- Statistical Analytics
+- Time Series Analytics
+
+---
+
+## EDUCATION
+
+### Master of Data Science, Monash University
+**Melbourne, Australia** | 06/2018 - 06/2020
+GPA - 3.55/4
+
+### Bachelor of Science (Honours) Mathematics, University of Delhi
+**Delhi, India** | 06/2015 - 05/2018
+GPA - 8.3/10

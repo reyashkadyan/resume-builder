@@ -1,0 +1,29 @@
+[Your Name]  
+[Your Address]  
+[City, Zip Code]  
+[Your Email]  
+[Your Phone Number]  
+[Date]  
+
+[Hiring Manager's Name]  
+[Company Name]  
+[Company Address]  
+[City, Zip Code]  
+
+Dear [Hiring Manager's Name],
+
+I am writing to express my enthusiastic application for the [Job Title] position at [Company Name] as advertised on [Where You Found the Job Posting]. With a robust background in data management, project support, and community initiatives, I am confident in my ability to contribute effectively to your team.
+
+In my recent role in Melbourne, I successfully completed key on-premises decommissioning activities for an enterprise data warehouse, fostering partnerships with prominent stakeholders such as Uber and the Delhi Police to launch impactful awareness initiatives. My expertise in cloud-based data storage was instrumental in managing the ingestion of real-time data related to bushfires, where I developed a REST API that streamlined data delivery for front-end visualization. This involved meticulous attention to security through SSL certifications and firewalls, ensuring optimal website performance through regular maintenance.
+
+My collaborative spirit is evident from my work with two leading scholars at Monash University's Faculty of Information Technology. Together, we expanded the benchmark Causal Inference Knowledge Base (ATOMIC) by leveraging NLP techniques to extract common-sense knowledge from literature, resulting in the development of neural network-based prototypes in PyTorch. This experience sharpened my analytical skills and enhanced my ability to work within interdisciplinary teams, making a significant contribution to ongoing research.
+
+In parallel, my volunteer experience reflects my leadership and commitment to making a difference. I led a dedicated team of 150 volunteers in Delhi, addressing critical blood shortages through the execution of 26 donation camps, ultimately saving 40,000 lives. This endeavor not only honed my project management abilities but also reinforced the importance of stakeholder engagement and data-driven decision-making, especially while leading a campaign that achieved national recognition.
+
+I believe my combination of technical proficiency, leadership experience, and commitment to impactful community work makes me a suitable candidate for the role at [Company Name]. I am eager to bring my expertise in data-driven projects and collaborative strategies to your distinguished team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my experience aligns with the goals of [Company Name]. Please feel free to contact me at [Your Phone Number] or [Your Email] to arrange a discussion.
+
+Warm regards,
+
+[Your Name]

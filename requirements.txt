@@ -1,0 +1,8 @@
+faiss-cpu==1.8.0
+sentence-transformers==3.2.0
+PyPDF2==3.0.1
+spacy==2.3.5
+langchain==0.2.16
+# weasyprint==61.2
+pyhtml2pdf==0.0.7
+openai==1.52.2

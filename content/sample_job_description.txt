@@ -1,0 +1,2 @@
+- Complete necessary on-premises EDW decommissioning activities
+- Provide key project support related to data ingestion as per project timelines

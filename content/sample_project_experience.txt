@@ -1,0 +1,84 @@
+PROJECT EXPERIENCE
+
+Company
+1. Capacity Planning project:
+- The objective was to evaluate the feasibility of running additional freight services after the Cross River Rail becomes operational.
+- Gathered operational constraints (track load, gauge, etc.) by consulting stakeholders at company to support simulation train service data.
+- Developed an algorithm to assess the feasibility of rail services by systematically mapping operational constraints, maintenance schedules, and public train timetables.
+- Procured data from both on-premises and cloud sources, utilizing Databricks for algorithm development and Azure Data Factory for orchestrating ETL jobs.
+- Created visualizations and communicated insights using Tableau to facilitate decision-making processes.
+
+2. Parking Predictor project
+- The goal was to build a model predicting the availability of loading zones for delivery drivers across Melbourne based on real-time and historical data.
+- Analyzed Bluetooth traffic data and parking sensors data, performing historical analysis to understand parking availability in 15-minute intervals, accounting for features like traffic congestion, weather, and school calendar.
+- Accounted for seasonal variations in parking availability due to peak hours and the time of year.
+- Used dbt for data modeling with relational data in Postgres and spatial data in ArcGI . Applied Python for feature engineering and machine learning.
+- Built 3-dimensional features indexed on temporal and spatial attributes to enhance the model's predictive accuracy.
+- Delivered a working prototype that led to securing a multi-year project with the client, using Tableau to communicate findings and insights.
+
+3. Supply Chain Risk Predictor project - Phase 1
+- The objective was to predict risks in the supply chain using curated financial data from Bloomberg, S&P, and Moody’s, encompassing a network of transactional data between 434 million companies.
+- Developed a multi-tiered deep network algorithm to identify direct and indirect suppliers within the client’s global supply chain.
+- Created a batch ingestion pipeline using multi-threading to extract up to 80k news articles daily, which were related to the companies in the extracted supply network.
+- Used Delta Live Tables in Databricks to store incremental data loads for continuous ingestion.
+- Categorized risks into four broad categories: Operational, Financial, Reputational, and Environmental.
+- Developed a machine learning model using natural language processing techniques for feature extraction from news articles, and trained an XGBoost decision-tree classifier for risk categorization.
+- Conducted interviews and consulting sessions to create in-house assets, such as a word dictionary to capture targeted risks more effectively.
+
+4. Supply Chain Risk Predictor project - Phase 2
+- Improved the supply chain network search process by de-duplicating multi-agency datasets and enhancing the search algorithm's speed.
+- Applied NLP techniques like regex search, cosine similarity, and phonetic distances to identify duplicate records, resulting in the identification of approximately 14 million duplicates.
+- Trained a semi-supervised machine learning model using manually annotated data to classify company matches based on registered addresses, goods traded, and other characteristics.
+- Reduced search algorithm processing time by 83% by implementing a graph database in Microsoft SQL Server and optimizing queries using graph elements.
+- Led a team of three, responsible for sprint management using Azure DevOps, solution design, cloud solution architecture, and graph database implementation.
+- Used Databricks for compute and pipeline orchestration throughout both project phases.
+
+
+Company
+1. GenAI - HR Chatbot Prototype:
+- Developed an HR chatbot prototype using a Retrieval-Augmented Generation (RAG) pipeline. 
+- Employed various parsing and chunking methodologies to extract text from HR policy documents in PDF format, which were then processed by the text-davinci model for generating text embeddings.
+- Utilized GPT-4 as the large language model to facilitate interactive chat, incorporating a chat memory mechanism to ensure context continuity across user sessions.
+- Successfully streamlined HR-related queries, improving user experience by ensuring responses were contextual and relevant throughout interactions.
+
+2. GenAI - People Survey:
+- Designed and implemented a system to analyze topic clusters from bi-annual people survey responses.
+- Developed a concurrent processing module for querying OpenAI APIs, significantly reducing the processing time for handling large volumes of survey data.
+- Created a module using LangChain for identifying and redacting profane or sensitive information from survey responses, utilizing an iterative chain mechanism for enhanced accuracy.
+- Conducted statistical analysis to derive actionable insights, which were highly appreciated by C-level executives for providing valuable feedback on improving workplace respect and culture.
+
+3. GenAI - LLM Evaluation:
+- Led the evaluation of open-source large language models (LLMs) such as Mistral and Dolly for integration into a RAG pipeline designed for the automatic allocation of ServiceNow cases.
+- Developed a vector index using historical case tickets stored in AWS RDS, the generated index was stored in AWS Redshift and implemented an HNSW space for efficient querying.
+- Created reusable modules for testing open-source LLMs from Huggingface, using LangChain and custom utilities written in Python within Databricks.
+- Successfully demonstrated that some open-source LLMs performed on par with GPT-4 for specific tasks, achieving cost savings of up to 90% compared to proprietary models.
+
+4. Insight Generation - Leader180:
+- Led a project to identify cultural factors that enhance global leadership capabilities within the organization.
+- Engaged with stakeholders to understand key areas of focus for leadership and translated these into a structured list of questions for validation through quantitative data collected via a survey of managers and executives.
+- Applied various statistical tests, including hypothesis testing (parametric and non-parametric), power tests, and more, to extract meaningful insights from the survey data.
+- Conducted consultations and interviews with stakeholders to discuss the results, and provided strategic recommendations aimed at improving the overall leadership experience for employees.
+
+5. Machine Learning - Attrition:
+- Developed a machine learning model to predict employee turnover using a variety of multi-agency datasets, including resourcing, compensation, rewards, productivity, and safety data to identify key factors affecting employees' decisions to leave the organization.
+- Migrated model training and inference jobs from AWS Sagemaker to Databricks to enable end-to-end orchestration and automation of the pipeline.
+- Implemented MLOps practices using MLflow for monitoring model training, tracking model drift, triggering retraining, and evaluating models across multiple performance metrics.
+- Enhanced model performance by refining existing features and creating new dynamic, time-based features representing employment progression history. This was achieved by migrating from reporting data to raw data sourced directly from SAP ERP.
+- Successfully built ETL pipelines using Delta Live Tables in Databricks to handle incremental data loads, ensuring efficient and reliable data processing.
+
+
+Company
+1. Deep learning - Lyric Transcription:
+- Led the end-to-end delivery of a lyric transcription solution, including model evaluation, productionization, and deployment.
+- Benchmarked the performance of various open-source Automatic Speech Recognition (ASR) models and stem-splitting techniques using PyTorch, evaluating models from NVIDIA, OpenAI, Meta, and Google to determine the best-performing model for lyric extraction from music files.
+- Developed a rule-based approach using natural language processing (NLP) techniques to address model hallucination and repetition issues, improving the accuracy and consistency of the transcription output.
+- Packaged the solution as a Docker image and deployed it using AWS services including Lambda, Elastic Container Registry (ECR), Elastic Container Service (ECS), and SQS queues.
+- Integrated the solution into the product via an API interface, helping the business achieve competitive parity in AI service offerings.
+- Built the solution in a modular fashion, allowing for easy scalability, particularly for GPU-based inference tasks.
+
+2. Deep learning - Key Detection:
+- Spearheaded the development of a deep-learning model aimed at identifying the overall musical key in audio files.
+- Conducted literature reviews on state-of-the-art solutions, developed prototypes, and sourced open-source datasets. Collaborated with the legal team to ensure ethical procurement of training datasets.
+- Successfully applied transfer learning techniques, leveraging pre-trained computer vision classification models on temporal and frequency-based features extracted from audio files, achieving an accuracy rate of 80% in classifying musical keys.
+- Used PyTorch for model training and implemented advanced deep-learning techniques, such as dynamic data loading, early stopping, and adaptive learning.
+- Collaborated closely with the product manager and project manager to manage delivery scope and timelines, ensuring the feature was developed on time and aligned with product objectives.

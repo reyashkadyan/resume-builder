@@ -1,0 +1,9 @@
+### INSTRUCTIONS
+1. Write a concise cover letter addressing all the key points required for the job.
+2. Be creative with the language and group similar points together. Think thoroughly.
+3. Write in a formal and confident manner. 
+4. Write in a letter format.
+
+### EXPERIENCE
+My relevant experience for each job requirements is describe below in the format of "Responsibility: My relevant experience".
+{relevant_experience_points_str}
